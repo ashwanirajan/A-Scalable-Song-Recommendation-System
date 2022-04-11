@@ -1,0 +1,2 @@
+# A-Scalable-Song-Recommendation-System
+We extracted and preprocessed the One Million Song data, user profiles, and song lyrics data using Spark on Databricks and AWS EMR and stored aggregated features as MongoDB collections. We built collaborative and content-based song recommenders, popularity, and genre predictors using distributed models for Matrix Factorization, word2vec K-means clustering of song lyrics, and classification &amp; regression models using Spark MLlib. We also developed a web app prototype to showcase the above results.
